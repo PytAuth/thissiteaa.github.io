@@ -13,7 +13,6 @@ b13 = document.querySelector(".product-card__button13")
 b14 = document.querySelector(".product-card__button14")
 b15 = document.querySelector(".product-card__button15")
 coded = document.querySelector("#coded")
-bal = document.querySelector("#52")
 let rubicoins = 50
 let price = 50
 b22.addEventListener('click', () => {
